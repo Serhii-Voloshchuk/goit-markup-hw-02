@@ -87,11 +87,11 @@ address:focus {
   background-color: #404BBF;
 }
 
-section h2{
+h2{
   letter-spacing: 0.02em;
 }
 
-.image{
+.our-team .image{
   background-color: #FFFFFF;
 }
 
