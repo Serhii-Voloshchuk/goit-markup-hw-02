@@ -22,6 +22,7 @@ address:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
 }
 
 .studio-logo{
@@ -64,18 +65,11 @@ address:focus {
 
 .top-title{
   font-size: 56px;
-  line-height: 1.071;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-
-footer p {
-
-  color: #f4f4fd;
-
-}
-
 
 .button {
   cursor: pointer;
@@ -84,12 +78,21 @@ footer p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  font-family: "Roboto", sans-serif;
   color: #ffffff;
 }
 
 .button:hover,
 .button:focus{
-  color: #404BBF;
+  background-color: #404BBF;
+}
+
+section h2{
+  letter-spacing: 0.02em;
+}
+
+.image{
+  background-color: #FFFFFF;
 }
 
 .title-qualities{
@@ -160,4 +163,8 @@ color:#434455;
   line-height: 1.5;
   color:#F4F4FD ;
   letter-spacing: 0.02em;
+}
+
+.footer .studio-logo{
+  color:#f4f4fd ;
 }
